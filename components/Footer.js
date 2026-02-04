@@ -7,11 +7,11 @@ const Footer = () => {
       <div className="mx-auto max-w-5xl relative top-15 left-6">Shipped to united state of America</div>
 
       <div className="mx-auto max-w-3xl flex justify-around items-center">
-        <Link href="/sitemap">Sitemap</Link>
-        <Link href="/legalnotice">Legalnotice</Link>
-        <Link href="/chainsact">Chainsact</Link>
-        <Link href="/accessibility">Accessibility</Link>
-        <Link href="/privacypolicy">Privacypolicy</Link>
+        <Link href="/#">Sitemap</Link>
+        <Link href="/#">Legal notice</Link>
+        <Link href="#">Chains act</Link>
+        <Link href="#">Accessibility</Link>
+        <Link href="#">Privacy policy</Link>
       </div>
          
          <div>
